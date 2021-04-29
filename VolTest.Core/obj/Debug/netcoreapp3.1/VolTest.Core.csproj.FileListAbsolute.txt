@@ -1,0 +1,6 @@
+C:\Users\11028\source\repos\VolTest.Core\bin\Debug\netcoreapp3.1\VolTest.Core.deps.json
+C:\Users\11028\source\repos\VolTest.Core\bin\Debug\netcoreapp3.1\VolTest.Core.dll
+C:\Users\11028\source\repos\VolTest.Core\obj\Debug\netcoreapp3.1\VolTest.Core.csprojAssemblyReference.cache
+C:\Users\11028\source\repos\VolTest.Core\obj\Debug\netcoreapp3.1\VolTest.Core.AssemblyInfoInputs.cache
+C:\Users\11028\source\repos\VolTest.Core\obj\Debug\netcoreapp3.1\VolTest.Core.AssemblyInfo.cs
+C:\Users\11028\source\repos\VolTest.Core\obj\Debug\netcoreapp3.1\VolTest.Core.csproj.CoreCompileInputs.cache

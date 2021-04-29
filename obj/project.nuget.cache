@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WYHijFwphMvwJjh+PseaDWf/BNne36Guix06ove7ZHPYfQBN1Jq6w6V0vBlkdo4kBwUCIaT8iDi88BUi467Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11028\\source\\repos\\VOLTest\\VOLTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11028\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\11028\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\11028\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\11028\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\11028\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\11028\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
